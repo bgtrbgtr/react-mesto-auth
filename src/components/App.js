@@ -31,7 +31,7 @@ function App() {
   const [userEmail, setUserEmail] = useState("");
   const [isRegPopupOpen, setIsRegPopupOpen] = useState(false);
   const [isRegistrationOk, setIsRegistrationOk] = useState(false);
-  const [title, setTitle] = useState("Вы успешно зарегистрировались");
+  const [title, setTitle] = useState("");
   const history = useHistory();
 
   useEffect(() => {
@@ -191,6 +191,7 @@ function App() {
     auth
       .register(password, email)
       .then(() => {
+        setTitle("Вы успешно зарегистрировались!");
         setIsRegPopupOpen(true);
         setIsRegistrationOk(true);
         history.push("/sign-in");
