@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/mesto-react/static/css/main.e502761b.css",
+    "main.js": "/mesto-react/static/js/main.2cd6203f.js",
+    "static/js/787.5530211c.chunk.js": "/mesto-react/static/js/787.5530211c.chunk.js",
+    "static/media/Inter-Medium.woff": "/mesto-react/static/media/Inter-Medium.9053572c46aeb4b16caa.woff",
+    "static/media/Inter-Black.woff": "/mesto-react/static/media/Inter-Black.c6938660eec019fefd68.woff",
+    "static/media/Inter-Regular.woff": "/mesto-react/static/media/Inter-Regular.8c206db99195777c6769.woff",
+    "static/media/Inter-Medium.woff2": "/mesto-react/static/media/Inter-Medium.293fd13dbca5a3e450ef.woff2",
+    "static/media/Inter-Black.woff2": "/mesto-react/static/media/Inter-Black.15ca31c0a2a68f76d2d1.woff2",
+    "static/media/Inter-Regular.woff2": "/mesto-react/static/media/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
+    "static/media/logo.svg": "/mesto-react/static/media/logo.03b78ada3425e9132ff3db7ea8f4a6f6.svg",
+    "static/media/like-button.svg": "/mesto-react/static/media/like-button.bf45e82757b0b9e50dfb.svg",
+    "index.html": "/mesto-react/index.html",
+    "static/media/registration-failure.svg": "/mesto-react/static/media/registration-failure.df8eddf661ff88f2d0efd3d570d14309.svg",
+    "static/media/trashbin-icon.svg": "/mesto-react/static/media/trashbin-icon.823b0cf1b0b7e9cb7cad.svg",
+    "static/media/registration-complete.svg": "/mesto-react/static/media/registration-complete.1b6082f862eac35e2514460237d96ecc.svg",
+    "static/media/like-button-active.svg": "/mesto-react/static/media/like-button-active.fe17a515669479b1e649.svg",
+    "static/media/edit-button-image.svg": "/mesto-react/static/media/edit-button-image.8667ac4a523e8fc42e59.svg",
+    "static/media/Close_Icon.svg": "/mesto-react/static/media/Close_Icon.2ceb783afbab75916ddc.svg",
+    "static/media/add-button-image.svg": "/mesto-react/static/media/add-button-image.d86bb2edc2f6eadb96b7.svg",
+    "static/media/avatar_edit.svg": "/mesto-react/static/media/avatar_edit.ea8cca3b96edda24ec96.svg",
+    "main.e502761b.css.map": "/mesto-react/static/css/main.e502761b.css.map",
+    "main.2cd6203f.js.map": "/mesto-react/static/js/main.2cd6203f.js.map",
+    "787.5530211c.chunk.js.map": "/mesto-react/static/js/787.5530211c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e502761b.css",
+    "static/js/main.2cd6203f.js"
+  ]
+}
