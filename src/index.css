@@ -44,3 +44,13 @@
 @import url(./blocks/profile/__avatar-wrapper/profile__avatar-wrapper.css);
 @import url(./blocks/profile/__change-avatar-button/profile__change-avatar-button.css);
 @import url(./blocks/element/__delete-button/_hidden/element__delete-button_hidden.css);
+@import url(./blocks/popup/__heading/_type/popup__heading_type_sign-up.css);
+@import url(./blocks/popup/__form/_type/popup__form_type_sign-up.css);
+@import url(./blocks/popup/__submit/_type/popup__submit_type_sign-up.css);
+@import url(./blocks/popup/__field/_type/popup__field_type_email.css);
+@import url(./blocks/popup/__field/_type/popup__field_type_password.css);
+@import url(./blocks/header/__button/header__button.css);
+@import url(./blocks/popup/_type/popup_type_registration.css);
+@import url(./blocks/popup/__icon/popup__icon.css);
+@import url(./blocks/popup/__heading/_type/popup__heading_type_sign-up-status.css);
+@import url(./blocks/header/__user-info/header__user-info.css);
